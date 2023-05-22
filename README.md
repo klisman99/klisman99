@@ -18,7 +18,7 @@
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
-    <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a>
+    <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases
